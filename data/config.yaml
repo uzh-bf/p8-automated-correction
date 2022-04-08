@@ -1,15 +1,12 @@
-name: Jacky Zhao
+name: P-8 Automated Correction
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Knowledge Base of the project "P-8 Automated Correction of Open-ended Exam Questions" by the UZH BF Teaching Center.
 page_title:
-  "🪴 Quartz 3.2"
+  "P-8 Automated Correction"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/uzh-bf/p8-automated-correction
