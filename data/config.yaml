@@ -3,7 +3,6 @@ enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-baseURL: https://uzh-bf.github.io/p8-automated-correction/
 description:
   Knowledge Base of the project "P-8 Automated Correction of Open-ended Exam Questions" by the UZH BF Teaching Center.
 page_title:
@@ -11,3 +10,7 @@ page_title:
 links:
   - link_name: Github
     link: https://github.com/uzh-bf/p8-automated-correction
+  - link_name: Project Website
+    link: https://uzh-bf-tc.vercel.app/projects/automated-grading
+  - link_name: BF Teaching Center
+    link: https://www.bf.uzh.ch/en/studies/general/teaching-center.html
