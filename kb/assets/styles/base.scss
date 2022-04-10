@@ -295,14 +295,6 @@ body {
   }
 }
 
-footer {
-  margin-top: 4em;
-  text-align: center;
-  & ul {
-    padding-left: 0;
-  }
-}
-
 hr {
   width: 25%;
   margin: 4em auto;
@@ -581,17 +573,5 @@ header {
     margin: 0;
     font-weight: 400;
     user-select: none;
-  }
-}
-
-#contact_buttons ul {
-  list-style-type: none;
-
-  li {
-    display: inline-block;
-  }
-
-  li a {
-    padding: 0 1em;
   }
 }

@@ -1,14 +1,18 @@
-<!-- Contact Info -->
-<div id="contact_buttons">
-  <footer class="bg-slate-400">
-    <p>
-      Made by {{ $.Site.Data.config.name }} using
-      <a href="https://github.com/jackyzha0/quartz">Quartz</a>, ©
-      {{ dateFormat
-        "2006" now
-      }}
+<div>
+  <footer
+    class="bg-slate-200 p-8 text-white flex flex-col items-center rounded gap-4"
+  >
+    <p class="m-0">
+      P-8 "Automated Correction of Open-ended Exam Questions" by the UZH BF
+      Teaching Center
     </p>
-    <ul>
+    <p class="m-0">
+      Knowledge base created using
+      <a href="https://github.com/jackyzha0/quartz">Quartz</a>, ©
+      {{ dateFormat "2006" now }}
+    </p>
+
+    <ul class="list-none flex flex-row gap-4 !p-0 m-0">
       {{ if not .IsHome }}
         <li><a href="/">Home</a></li>
       {{ end }}
