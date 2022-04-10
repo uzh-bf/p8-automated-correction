@@ -25,7 +25,7 @@ thead {
 p,
 ul,
 text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -61,14 +61,14 @@ text {
       & > li {
         counter-increment: subsection;
         &::marker {
-          content: counter(section) '.' counter(subsection) '  ';
+          content: counter(section) "." counter(subsection) "  ";
         }
       }
     }
   }
 
   & > li::marker {
-    content: counter(section) '  ';
+    content: counter(section) "  ";
   }
 
   & > li::marker,
@@ -149,7 +149,7 @@ th {
       background-color: transparent !important;
     }
 
-    & a[href$='#'] {
+    & a[href$="#"] {
       opacity: 0.2;
     }
   }
@@ -193,7 +193,7 @@ article {
       border: var(--outlinegray) 1px solid;
       padding: 0.2em 0.5em;
       &::before {
-        content: '#';
+        content: "#";
         margin-right: 0.3em;
         color: var(--outlinegray);
       }
@@ -247,14 +247,14 @@ a {
 }
 
 pre {
-  font-family: 'Fira Code';
+  font-family: "Fira Code";
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
 }
 
 code {
-  font-family: 'Fira Code';
+  font-family: "Fira Code";
   font-size: 0.85em;
   padding: 0.15em 0.3em;
   border-radius: 5px;
@@ -573,7 +573,7 @@ header {
   & > .meta {
     margin-top: 0.25em;
     opacity: 0.5;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     font-size: 0.8rem;
   }
 

@@ -19,7 +19,9 @@
     "dev": "npm-run-all --parallel dev:links dev:hugo dev:tailwind",
     "dev:links": "nodemon --ext 'md' -w 'content/' --exec 'hugo-obsidian -input=content -output=assets/indices -index -root=.'",
     "dev:hugo": "hugo server",
-    "dev:tailwind": "tailwindcss -i ./styles.css -o ./assets/styles/tailwind.css --watch"
+    "dev:tailwind": "tailwindcss -i ./styles.css -o ./assets/styles/tailwind.css --watch",
+    "format": "prettier --write .",
+    "format:ci": "prettier --list-different ."
   },
   "volta": {
     "node": "16.14.2"

@@ -1,5 +1,5 @@
 module.exports = {
-  content: ['layouts/**/*.html'],
+  content: ["layouts/**/*.html"],
   theme: {
     extend: {},
   },
@@ -7,4 +7,4 @@ module.exports = {
   corePlugins: {
     preflight: false,
   },
-}
+};

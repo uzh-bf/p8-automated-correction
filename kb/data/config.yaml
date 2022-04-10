@@ -3,10 +3,8 @@ enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-description:
-  Knowledge Base of the project "P-8 Automated Correction of Open-ended Exam Questions" by the UZH BF Teaching Center.
-page_title:
-  "P-8 Automated Correction"
+description: Knowledge Base of the project "P-8 Automated Correction of Open-ended Exam Questions" by the UZH BF Teaching Center.
+page_title: "P-8 Automated Correction"
 links:
   - link_name: Github
     link: https://github.com/uzh-bf/p8-automated-correction
