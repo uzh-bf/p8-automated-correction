@@ -1,17 +1,16 @@
-# Quartz
+# P-8 Automated Correction of Open-ended Exam Questions
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+This repository contains the sources of the project on “Automated Correction of Open-ended Exam Questions” that we currently work on at the BF Teaching Center. The project will consist of multiple parts:
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+- A knowledge base located in `/kb` that contains a summarization of the work we are doing, as well as the resources we collect for your own application. The knowledge base is also hosted on <https://automated-correction.bf-app.ch/>.
+- A correction toolkit located that provides a collection of tools and features that help you grade open-ended exam questions. The scope of this has not been fixed completely.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+We are still in the early phases of the project and only the knowledge base will be provided for now. The correction toolkit will be published as soon as we have tested and validated everything to ensure you have a stable experience.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+## Contributing
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+We welcome any contributions to project (e.g., the addition of a new tool or feature to the knowledge base). However, as the project scope is not yet set in stone, please contact us beforehand.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## License
+
+The project and all of its subprojects are licensed under the AGPLv3.
