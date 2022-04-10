@@ -1,6 +1,6 @@
 baseURL = "https://automated-correction.bf-app.ch/"
 languageCode = "en-us"
-googleAnalytics = "UA-33258666-20"
+googleAnalytics = "G-2D41GLHJ73"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
