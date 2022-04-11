@@ -12,8 +12,8 @@ Could reduce workload but only if it works well. Would technically be very chall
 
 ### Prerequisites
 
-- [[research/features/definitions/Text Recognition]]
-- [[research/features/definitions/Text Similarity Analysis]]
+- [Text Recognition](research/features/definitions/Text Recognition)
+- [Text Similarity Analysis](research/features/definitions/Text Similarity Analysis)
 
 ### In use
 

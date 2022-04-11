@@ -14,6 +14,6 @@ None
 
 ### In use
 
-- [[research/tools/Gradescope]]
-- [[research/tools/Crowdmark]]
-- [[research/tools/Ans]]
+- [Gradescope](research/tools/Gradescope)
+- [Crowdmark](research/tools/Crowdmark)
+- [Ans](research/tools/Ans)

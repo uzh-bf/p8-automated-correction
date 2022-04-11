@@ -16,4 +16,4 @@ None
 
 ### In use
 
-- [[research/tools/Gradescope]]
+- [Gradescope](research/tools/Gradescope)

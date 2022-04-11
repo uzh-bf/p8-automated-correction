@@ -8,7 +8,7 @@ Compare texts between different students, e.g. for essays, probably not too usef
 
 ### Prerequisites
 
-- [[research/features/definitions/Text Recognition]]
+- [Text Recognition](research/features/definitions/Text Recognition)
 
 ### In use
 
