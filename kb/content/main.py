@@ -5,7 +5,7 @@ import string
 import random
 
 IN_DIR = Path(r'notes')
-DEFAULT_DRAFT = True
+DEFAULT_DRAFT = False
 
 # --- CHANGE THE ABOVE, NOTHING BELOW THIS LINE ---
 
