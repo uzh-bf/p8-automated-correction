@@ -1,9 +1,14 @@
-# Grouping 
-#feature 
+---
+title: Grouping
+---
 
-Similar answers can be grouped in order to grade these answers all at once. This could decrease the workload of grading of open questions and improve consistency. Grouping can be done automatically using machine learning techniques or manually. 
+# Grouping
 
-An example of an answer group in [Gradescope](research/tools/Gradescope.md) can be found [here](research/tools/images/answer-group-example.PNG). 
+#feature
+
+Similar answers can be grouped in order to grade these answers all at once. This could decrease the workload of grading of open questions and improve consistency. Grouping can be done automatically using machine learning techniques or manually.
+
+An example of an answer group in [Gradescope](research/tools/Gradescope.md) can be found [here](research/tools/images/answer-group-example.PNG).
 
 Grouping has the potential to drastically decrease the workload and improve the consistency of the grading. Both possibilities of [[research/features/definitions/Automated Grouping]] and [[research/features/definitions/Manual Grouping]] must be investigated.
 

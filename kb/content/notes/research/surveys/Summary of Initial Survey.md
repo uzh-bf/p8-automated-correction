@@ -1,5 +1,5 @@
 ---
-title: Initial Survey
+title: Summary of Initial Survey
 ---
 
 # Summary of Survey "P8: Correction of open-ended exam questions through automatization"
@@ -12,13 +12,13 @@ This document summarizes the results of the online-survey on the correction of o
 
 45 people completed our survey and provided valuable feedback. The below graphs summarize the roles of the participants, how they are involved in the grading process, and in which academic area they conduct their exams.
 
-![png](notes/research/surveys/plots/output_2_0.png)
+![png](research/survey/plots/output_2_0.png)
 
 ### How do the participants conduct their exams?
 
 Exams at our university differ from each other in several dimensions. Exams can differ regarding their type (e.g. paper-based in lecture hall), what materials the students are allowed to use, and what type of questions the exams contain (e.g. multiple choice). The below graphs show what types of exams, which material use, and which types of questions are most common in the courses of our participants.
 
-![png](notes/research/surveys/plots/output_4_0.png)
+![png](research/survey/plots/output_4_0.png)
 
 ### What motivates examiners to include open-ended questions?
 
@@ -26,7 +26,7 @@ There are several reasons an examiner may include open-ended questions in an exa
 
 _In your opinion, what are the most beneficial factors of open-ended questions? Please rank the factors by assigning their relative rank compared to the other options._
 
-![png](notes/research/surveys/plots/output_6_0.png)
+![png](research/survey/plots/output_6_0.png)
 
 According to the participants of our survey, the most beneficial aspect of open-ended questions is the possibility to better assess the students' knowledge (average ranking 1.76), followed by the improved quality of the students' answers (e.g. harder to guess, more detailed answers etc) (2.34). The other included aspects are, on average, perceived to be considerably less beneficial. The mean and standard deviation of the ranking of each beneficial aspects can be found in the appendix.
 
@@ -36,7 +36,7 @@ While open-ended questions have beneficial aspects, they also present challenges
 
 _In your opinion, how challenging are these factors regarding the correction of open-ended exam questions? Please classify each of the following factors according to their level of challenge._
 
-![png](notes/research/surveys/plots/output_9_0.png)
+![png](research/survey/plots/output_9_0.png)
 
 The participants perceived the workload related to the grading of open-ended questions as the biggest challenge (average rating 3.95/5), followed by the inconsistency of examiners (e.g. allocation of a different number of points for the "same" answer) (3.50) and the formulation of transparent grading criteria (3.20). Other aspects that were perceived as relatively challenging were the systematic assignment of grades (3.13), handwriting that is hard to read (3.07), varying personal constitution (3.05), the quality of the students' responses (3.05), the inconsistency of multiple examiners grading the same exam (2.96), and the misunderstanding of unclear questions (2.93). The other aspects of open-ended question we included in our survey were, on average, perceived to be less challenging. The mean and standard deviation of the rating of each challenge can be found in the appendix.
 
@@ -54,7 +54,7 @@ The use of software could, at least partially, address some of the challenges ar
 
 _Please classify each of the following concepts according to their importance when focusing on the correction of open-ended exam questions._
 
-![png](notes/research/surveys/plots/output_13_0.png)
+![png](research/survey/plots/output_13_0.png)
 
 The feature conisdered as the by far the most important by the participants is the possibility to specify consistent correction criteria, a concept known as rubrics (average rating 4.46). Other features considered as relevant are the possibility to automatically group similar answers (3.60), anonymous correction (3.48), text similarity analysis (3.46), cheating detection (3.40), and the possibility to write manual feedback (3.31). The other features we included in our survey were, on average, perceived to be less important. The mean and standard deviation of the rating of each feature can be found in the appendix.
 
@@ -95,18 +95,18 @@ Our participants shared a lot of very helpful remarks with us. They ranged from 
 
 3. Table with mean and standard deviation of ratings of all included features:
 
-|                                      | Description in Survey                                                                                                                                    | Mean | StdDev |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
-| [[Rubrics]]                          | Consistent correction criteria across students (e.g., by establishing correction criteria and grading by selecting applicable criteria for each student) | 4.46 | 0.79   |
-| [[Grouping]]                         | Grouping of similar responses to improve efficiency (e.g., to grade all responses with the same content consistently and in fewer clicks)                | 3.60 | 1.20   |
-| [Anonymous Correction](Anonymity.md) | Anonymous correction so that graders cannot identify students                                                                                            | 3.49 | 1.14   |
-| [[Text Similarity Analysis]]         | Text similarity analysis between students (e.g., for essay questions)                                                                                    | 3.46 | 1.19   |
-| [[Cheating Detection]]               | Cheating detection (e.g., based on statistical approaches or response content)                                                                           | 3.40 | 1.35   |
-| [[Manual Feedback]]                  | Giving manual feedback to students (e.g., making comments on mistakes when grading)                                                                      | 3.32 | 1.28   |
-| [[Collaboration]]                    | Possibility to distribute grading workload over different people (collaborative / delegated grading)                                                     | 3.23 | 1.25   |
-| [[Text Recognition]]                 | Conversion of handwriting to text for easier processing                                                                                                  | 3.05 | 1.23   |
-| [[Statistics]]                       | Assignment and question statistics (e.g., automated computation of question difficulty, item analysis)                                                   | 3.02 | 1.26   |
-| [[Fully Automated Grading]]          | Fully automated points calculation (e.g., based on rules, solution space, or other automated approaches)                                                 | 2.90 | 1.37   |
-| [[Automated Grading Suggestions]]    | Automated suggestion of correction criteria and points for each student (i.e., with manual approval)                                                     | 2.87 | 1.27   |
-| [[Exam Review]]                      | Possibility for online-exam review for the students (e.g., with a login to the platform)                                                                 | 2.87 | 1.20   |
-| [[Code Similarity Analysis]]         | Code similarity analysis for programming questions                                                                                                       | 2.86 | 1.29   |
+|                                                                    | Description in Survey                                                                                                                                    | Mean | StdDev |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
+| [[research/features/definitions/Rubrics]]                          | Consistent correction criteria across students (e.g., by establishing correction criteria and grading by selecting applicable criteria for each student) | 4.46 | 0.79   |
+| [[research/features/definitions/Grouping]]                         | Grouping of similar responses to improve efficiency (e.g., to grade all responses with the same content consistently and in fewer clicks)                | 3.60 | 1.20   |
+| [Anonymous Correction](research/features/definitions/Anonymity.md) | Anonymous correction so that graders cannot identify students                                                                                            | 3.49 | 1.14   |
+| [[research/features/definitions/Text Similarity Analysis]]         | Text similarity analysis between students (e.g., for essay questions)                                                                                    | 3.46 | 1.19   |
+| [[research/features/definitions/Cheating Detection]]               | Cheating detection (e.g., based on statistical approaches or response content)                                                                           | 3.40 | 1.35   |
+| [[research/features/definitions/Manual Feedback]]                  | Giving manual feedback to students (e.g., making comments on mistakes when grading)                                                                      | 3.32 | 1.28   |
+| [[research/features/definitions/Collaboration]]                    | Possibility to distribute grading workload over different people (collaborative / delegated grading)                                                     | 3.23 | 1.25   |
+| [[research/features/definitions/Text Recognition]]                 | Conversion of handwriting to text for easier processing                                                                                                  | 3.05 | 1.23   |
+| [[research/features/definitions/Statistics]]                       | Assignment and question statistics (e.g., automated computation of question difficulty, item analysis)                                                   | 3.02 | 1.26   |
+| [[research/features/definitions/Fully Automated Grading]]          | Fully automated points calculation (e.g., based on rules, solution space, or other automated approaches)                                                 | 2.90 | 1.37   |
+| [[research/features/definitions/Automated Grading Suggestions]]    | Automated suggestion of correction criteria and points for each student (i.e., with manual approval)                                                     | 2.87 | 1.27   |
+| [[research/features/definitions/Exam Review]]                      | Possibility for online-exam review for the students (e.g., with a login to the platform)                                                                 | 2.87 | 1.20   |
+| [[research/features/definitions/Code Similarity Analysis]]         | Code similarity analysis for programming questions                                                                                                       | 2.86 | 1.29   |

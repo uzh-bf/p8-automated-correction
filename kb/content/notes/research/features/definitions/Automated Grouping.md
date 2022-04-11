@@ -1,5 +1,10 @@
+---
+title: Automated Grouping
+---
+
 # Automated Grouping
-#feature #automated 
+
+#feature #automated
 
 Similar answers are automatically grouped such that they can all be graded at once.
 
@@ -8,9 +13,11 @@ Potential would be big if it works well. Already implemented solutions only work
 A possible scope of application would also be single/multiple choice questions.
 
 ### Prerequisites
+
 - [[research/features/definitions/Text Recognition]]
 - [[research/features/definitions/Text Similarity Analysis]]
 - [[research/concepts/Image Similarity Analysis]]
 
-### In use 
+### In use
+
 - [[research/tools/Gradescope]]

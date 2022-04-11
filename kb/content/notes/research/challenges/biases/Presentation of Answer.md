@@ -1,8 +1,13 @@
+---
+title: Presentation of Answer
+---
+
 # Presentation of Answer
-#bias 
 
-The way student presents an answer may have an effect on the points he is awarded, also in settings were the focus should solely lay on the content. 
+#bias
 
-A student with a bad handwriting or poor language skills may be awarded less points than appropriate. 
+The way student presents an answer may have an effect on the points he is awarded, also in settings were the focus should solely lay on the content.
 
-[[research/features/definitions/Text Recognition]] would adress this bias for text answers if the grader is presented machine-written text.
+A student with a bad handwriting or poor language skills may be awarded less points than appropriate.
+
+[Text Recognition](research/features/definitions/Text Recognition) would address this bias for text answers if the grader is presented machine-written text.
