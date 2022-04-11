@@ -10,4 +10,4 @@ The way student presents an answer may have an effect on the points he is awarde
 
 A student with a bad handwriting or poor language skills may be awarded less points than appropriate.
 
-[Text Recognition](research/features/definitions/Text Recognition) would address this bias for text answers if the grader is presented machine-written text.
+[Text Recognition](research/features/definitions/Text-Recognition) would address this bias for text answers if the grader is presented machine-written text.

@@ -6,7 +6,7 @@ title: Consistency
 
 #challenge
 
-Grading open-ended questions consistently is a big challenge according to the participants of our [survey](research/survey/Summary.md). The goal is that same (similar) answers are awarded the same (a similar) amount of points.
+Grading open-ended questions consistently is a big challenge according to the participants of our [survey](research/survey/Summary-of-Initial-Survey.md). The goal is that same (similar) answers are awarded the same (a similar) amount of points.
 
 There are several possible sources of inconsistency:
 

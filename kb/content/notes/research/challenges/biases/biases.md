@@ -11,6 +11,6 @@ Potential Biases:
 - [Discrimination](research/challenges/biases/Discrimination.md)
 - [Context Effects](research/challenges/biases/Context.md)
 - [Halo](research/challenges/biases/Halo.md)
-- [Mental Depletion](research/challenges/biases/Mental Depletion)
+- [Mental Depletion](research/challenges/biases/Mental-Depletion.md)
 - [Anchoring](research/challenges/biases/Anchoring.md)
-- [Presentation of Answer](research/challenges/biases/Presentation of Answer)
+- [Presentation of Answer](research/challenges/biases/Presentation-of-Answer.md)

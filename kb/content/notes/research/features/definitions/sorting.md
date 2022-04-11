@@ -10,8 +10,8 @@ Present the answers in some sorted order. This should allow the examiner to asse
 
 ### Prerequisites
 
-- [Text Recognition](research/features/definitions/Text Recognition)
-- [Keyword Extraction](research/features/definitions/Keyword Extraction)
+- [Text Recognition](research/features/definitions/Text-Recognition)
+- [Keyword Extraction](research/features/definitions/Keyword-Extraction)
 
 ### In use
 

@@ -12,7 +12,7 @@ We created an overview for the grading tools:
 - [CodeExpert](research/tools/Codeexpert)
 - [Crowdmark](research/tools/Crowdmark)
 - [Ans](research/tools/Ans)
-- [DBF Excel Grading](research/tools/DBF Excel Grading)
+- [DBF Excel Grading](research/tools/DBF-Excel-Grading)
 - [Graide](research/tools/Graide)
 
 We tried to gather evidence for efficiency gains of [Gradescope](research/tools/Gradescope) and [Crowdmark](research/tools/Crowdmark).

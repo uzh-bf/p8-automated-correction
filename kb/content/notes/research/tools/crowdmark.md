@@ -22,12 +22,12 @@ The Crowdmark Software offers different features related to the grading of open-
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [Digitization of Exercises and Exams](research/features/definitions/Digitization.md) | Online and paper-based (must be created in Crowdmark) possible                                                                            |
 | [Collaborative Grading](research/features/definitions/Collaboration.md)              | Currently graded answers are blocked for others                                                                                           |
-| [Grading Workflow](research/features/definitions/Grading Workflow)                   | Grading split up by exercise                                                                                                              |
-| [Manual Feedback](research/features/definitions/Manual Feedback)                     | Comments be reused and be assigned a point-value such that they can be used similarly to [Rubrics](research/features/definitions/Rubrics) |
-| [Free Form Annotation](research/features/definitions/Free Form Annotation)           | -                                                                                                                                         |
+| [Grading Workflow](research/features/definitions/Grading-Workflow)                   | Grading split up by exercise                                                                                                              |
+| [Manual Feedback](research/features/definitions/Manual-Feedback)                     | Comments be reused and be assigned a point-value such that they can be used similarly to [Rubrics](research/features/definitions/Rubrics) |
+| [Free Form Annotation](research/features/definitions/Free-Form-Annotation)           | -                                                                                                                                         |
 | [Tags](research/features/definitions/Tags)                                           | -                                                                                                                                         |
 | [Statistics](research/features/definitions/Statistics)                               | -                                                                                                                                         |
-| [Exam Review](research/features/definitions/Exam Review)                             | -                                                                                                                                         |
+| [Exam Review](research/features/definitions/Exam-Review)                             | -                                                                                                                                         |
 
 ### Quotes
 

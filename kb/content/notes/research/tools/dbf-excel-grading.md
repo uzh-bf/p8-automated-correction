@@ -8,7 +8,7 @@ title: DBF Excel Grading
 
 ### What is the DBF Excel Grading tool?
 
-The Teaching Center of the Department of Banking and Finance (DBF) developed a tool for the automated creation and correction of problem sets and exams solved in [Microsoft Excel](research/exams/design/Question Types/Excel). It is sucessfully used in various courses of the Department of Banking and Finance.
+The Teaching Center of the Department of Banking and Finance (DBF) developed a tool for the automated creation and correction of problem sets and exams solved in [Microsoft Excel](research/exams/design/Question-Types/Excel). It is sucessfully used in various courses of the Department of Banking and Finance.
 
 ### Aim of the DBF Excel Grading Tool
 
@@ -22,4 +22,4 @@ The main features of the tool are the generation of personalized exams and their
 | -------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [Digitization](research/features/definitions/Digitization)                       | Exams must be created in Microsoft Excel            |
 | [Statistics](research/features/definitions/Statistics)                           | Basic statistics for each exercise                  |
-| [Fully Automated Grading](research/features/definitions/Fully Automated Grading) | Fully automated correction based on sample solution |
+| [Fully Automated Grading](research/features/definitions/Fully-Automated-Grading) | Fully automated correction based on sample solution |

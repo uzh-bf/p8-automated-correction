@@ -14,9 +14,9 @@ A possible scope of application would also be single/multiple choice questions.
 
 ### Prerequisites
 
-- [Text Recognition](research/features/definitions/Text Recognition)
-- [Text Similarity Analysis](research/features/definitions/Text Similarity Analysis)
-- [Image Similarity Analysis](research/concepts/Image Similarity Analysis)
+- [Text Recognition](research/features/definitions/Text-Recognition)
+- [Text Similarity Analysis](research/features/definitions/Text-Similarity-Analysis)
+- [Image Similarity Analysis](research/concepts/Image-Similarity-Analysis)
 
 ### In use
 

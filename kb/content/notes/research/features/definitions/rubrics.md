@@ -10,7 +10,7 @@ A rubric is a set of criteria for the grading of an assignment. In order to eval
 
 Rubrics can be used when grading manually without technical support, but also when software is in use.
 
-Rubrics are highly rated in our [survey](research/survey/Summary of Initial Survey.md) and implementation should be relatively straightforward. They adress key challenges in the grading process, first and foremost workload and consistency.
+Rubrics are highly rated in our [survey](research/survey/Summary-of-Initial-Survey.md) and implementation should be relatively straightforward. They adress key challenges in the grading process, first and foremost workload and consistency.
 
 ### Prerequisites
 
