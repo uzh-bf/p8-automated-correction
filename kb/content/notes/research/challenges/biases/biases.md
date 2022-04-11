@@ -8,9 +8,9 @@ We hereby list biases or causes of them which could potentially affect the gradi
 
 Potential Biases:
 
-- [Discrimination](research/challenges/biases/Discrimination.md)
-- [Context Effects](research/challenges/biases/Context.md)
-- [Halo](research/challenges/biases/Halo.md)
-- [Mental Depletion](research/challenges/biases/Mental-Depletion.md)
-- [Anchoring](research/challenges/biases/Anchoring.md)
-- [Presentation of Answer](research/challenges/biases/Presentation-of-Answer.md)
+- [discrimination](research/challenges/biases/discrimination.md)
+- [Context Effects](research/challenges/biases/context.md)
+- [halo](research/challenges/biases/halo.md)
+- [Mental Depletion](research/challenges/biases/mental-depletion.md)
+- [anchoring](research/challenges/biases/anchoring.md)
+- [Presentation of Answer](research/challenges/biases/presentation-of-answer.md)

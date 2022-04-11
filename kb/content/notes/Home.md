@@ -14,14 +14,14 @@ Our primary goal is to evaluate whether and how the correction of exams could be
 
 The primary milestones in our project are the following:
 
-| Timeframe  | Description                                 | Resources                                                                                                    |
-| ---------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 2022 Q1-Q2 | Knowledge accumulation and user research    | [Initial Survey](notes/research/surveys/summary-of-initial-survey.md), User Interviews, Exam Analysis        |
-| 2022 Q2    | Market analysis and feature overview        | [Feature Overview](notes/research/features/overview.md), [Market Overview](notes/research/tools/overview.md) |
-| 2022 Q2-Q4 | Pilot preparation and prototype development |                                                                                                              |
-| 2023 Q1    | Pilot testing during exam period            |                                                                                                              |
-| 2023 Q1-Q2 | Pilot evaluation and stakeholder feedback   |                                                                                                              |
-| 2023 Q2-Q3 | Project conclusion and consolidation        | Correction Toolkit                                                                                           |
+| Timeframe  | Description                                 | Resources                                                                                        |
+| ---------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2022 Q1-Q2 | Knowledge accumulation and user research    | [Initial Survey](research/surveys/summary-of-initial-survey.md), User Interviews, Exam Analysis  |
+| 2022 Q2    | Market analysis and feature overview        | [Feature Overview](research/features/overview.md), [Market Overview](research/tools/overview.md) |
+| 2022 Q2-Q4 | Pilot preparation and prototype development |                                                                                                  |
+| 2023 Q1    | Pilot testing during exam period            |                                                                                                  |
+| 2023 Q1-Q2 | Pilot evaluation and stakeholder feedback   |                                                                                                  |
+| 2023 Q2-Q3 | Project conclusion and consolidation        | Correction Toolkit                                                                               |
 
 ## Supporters
 

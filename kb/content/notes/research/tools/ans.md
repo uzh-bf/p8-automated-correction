@@ -16,14 +16,14 @@ The Ans Software offers different features related to the grading of open-ended 
 
 | Feature                                                                              | Comment                                                                                                      |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [Digitization of Exercises and Exams](research/features/definitions/Digitization.md) | Online and paper-based supported, paper-based exams must be created with ANS                                 |
-| [Rubrics](research/features/definitions/Rubrics)                                     | Slightly different terminology than in [Gradescope](research/tools/Gradescope) (called points per criterion) |
-| [Collaborative Grading](research/features/definitions/Collaboration.md)              | Answers are processed as a stack                                                                             |
-| [Flag Answer](research/features/definitions/Flag-Answer)                             | Somehow similar to [Tags](research/features/definitions/Tags)                                                |
-| [Shuffling](research/features/definitions/Shuffling)                                 | Also non-random order possible                                                                               |
-| [Manual Feedback](research/features/definitions/Manual-Feedback)                     | -                                                                                                            |
-| [Statistics](research/features/definitions/Statistics)                               | -                                                                                                            |
-| [Exam Review](research/features/definitions/Exam-Review)                             | -                                                                                                            |
+| [Digitization of Exercises and Exams](research/features/definitions/digitization.md) | Online and paper-based supported, paper-based exams must be created with ANS                                 |
+| [rubrics](research/features/definitions/rubrics.md)                                  | Slightly different terminology than in [Gradescope](research/tools/Gradescope) (called points per criterion) |
+| [Collaborative Grading](research/features/definitions/collaboration.md)              | Answers are processed as a stack                                                                             |
+| [Flag Answer](research/features/definitions/flag-answer.md)                          | Somehow similar to [tags](research/features/definitions/tags.md)                                             |
+| [shuffling](research/features/definitions/shuffling.md)                              | Also non-random order possible                                                                               |
+| [Manual Feedback](research/features/definitions/manual-feedback.md)                  | -                                                                                                            |
+| [statistics](research/features/definitions/statistics.md)                            | -                                                                                                            |
+| [Exam Review](research/features/definitions/exam-review.md)                          | -                                                                                                            |
 
 ### Pricing
 
