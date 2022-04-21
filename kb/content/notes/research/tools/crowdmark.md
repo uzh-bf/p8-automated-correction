@@ -25,8 +25,8 @@ The Crowdmark Software offers different features related to the grading of open-
 | [Grading Workflow](research/features/definitions/grading-workflow.md)                | Grading split up by exercise                                                                                                                 |
 | [Manual Feedback](research/features/definitions/manual-feedback.md)                  | Comments be reused and be assigned a point-value such that they can be used similarly to [rubrics](research/features/definitions/rubrics.md) |
 | [Free Form Annotation](research/features/definitions/free-form-annotation.md)        | -                                                                                                                                            |
-| [tags](research/features/definitions/tags.md)                                        | -                                                                                                                                            |
-| [statistics](research/features/definitions/statistics.md)                            | -                                                                                                                                            |
+| [Tags](research/features/definitions/tags.md)                                        | -                                                                                                                                            |
+| [Statistics](research/features/definitions/statistics.md)                            | -                                                                                                                                            |
 | [Exam Review](research/features/definitions/exam-review.md)                          | -                                                                                                                                            |
 
 ### Quotes

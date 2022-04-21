@@ -16,7 +16,7 @@ The primary milestones in our project are the following:
 
 | Timeframe  | Description                                 | Resources                                                                                        |
 | ---------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 2022 Q1-Q2 | Knowledge accumulation and user research    | [Initial Survey](research/surveys/summary-of-initial-survey.md), User Interviews, Exam Analysis  |
+| 2022 Q1-Q2 | Knowledge accumulation and user research    | [Initial Survey](research/surveys/summary-of-initial-survey.md), [User Interviews](research/interviews/summary-of-interviews.md), Exam Analysis  |
 | 2022 Q2    | Market analysis and feature overview        | [Feature Overview](research/features/overview.md), [Market Overview](research/tools/overview.md) |
 | 2022 Q2-Q4 | Pilot preparation and prototype development |                                                                                                  |
 | 2023 Q1    | Pilot testing during exam period            |                                                                                                  |

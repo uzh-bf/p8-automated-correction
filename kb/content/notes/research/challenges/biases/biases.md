@@ -9,7 +9,7 @@ We hereby list biases or causes of them which could potentially affect the gradi
 Potential Biases:
 
 - [Discrimination](research/challenges/biases/discrimination.md)
-- [Context Effects](research/challenges/biases/context.md)
+- [Context Effects](research/challenges/biases/contrast-effects.md)
 - [Halo](research/challenges/biases/halo.md)
 - [Mental Depletion](research/challenges/biases/mental-depletion.md)
 - [Anchoring](research/challenges/biases/anchoring.md)

@@ -20,6 +20,6 @@ The main features of the tool are the generation of personalized exams and their
 
 | Feature                                                                             | Comment                                             |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [digitization](research/features/definitions/digitization.md)                       | Exams must be created in Microsoft Excel            |
-| [statistics](research/features/definitions/statistics.md)                           | Basic statistics for each exercise                  |
+| [Digitization](research/features/definitions/digitization.md)                       | Exams must be created in Microsoft Excel            |
+| [Statistics](research/features/definitions/statistics.md)                           | Basic statistics for each exercise                  |
 | [Fully Automated Grading](research/features/definitions/fully-automated-grading.md) | Fully automated correction based on sample solution |
